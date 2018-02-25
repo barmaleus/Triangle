@@ -1,0 +1,616 @@
+2018-01-29T21:32:47,572 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T21:42:19,331 [INFO ] (Reader.java:20) - Файл был прочитан.
+2018-01-29T21:42:19,362 [INFO ] (Parser.java:24) - Строка файла №1. Координаты добавлены.
+2018-01-29T21:42:19,363 [WARN ] (Parser.java:27) - Невозможно прочитать координаты. В строке №2 введены символы, которые невозможно перевести в формат Double.
+2018-01-29T21:42:19,364 [INFO ] (Parser.java:24) - Строка файла №3. Координаты добавлены.
+2018-01-29T21:42:19,365 [INFO ] (Parser.java:24) - Строка файла №4. Координаты добавлены.
+2018-01-29T21:42:19,531 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T21:42:19,532 [WARN ] (Creator.java:27) - Невозможно создать треугольник №2, недостаточно данных координат.
+2018-01-29T21:42:19,533 [WARN ] (Creator.java:27) - Невозможно создать треугольник №3, недостаточно данных координат.
+2018-01-29T21:42:19,533 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T21:43:20,996 [INFO ] (Reader.java:20) - Файл был прочитан.
+2018-01-29T21:43:20,998 [INFO ] (Parser.java:24) - Строка файла №1. Координаты добавлены.
+2018-01-29T21:43:20,998 [WARN ] (Parser.java:27) - Невозможно прочитать координаты. В строке №2 введены символы, которые невозможно перевести в формат Double.
+2018-01-29T21:43:20,999 [INFO ] (Parser.java:24) - Строка файла №3. Координаты добавлены.
+2018-01-29T21:43:20,999 [INFO ] (Parser.java:24) - Строка файла №4. Координаты добавлены.
+2018-01-29T21:43:21,000 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T21:43:21,000 [WARN ] (Creator.java:27) - Невозможно создать треугольник №2, недостаточно данных координат.
+2018-01-29T21:43:21,000 [WARN ] (Creator.java:27) - Невозможно создать треугольник №3, недостаточно данных координат.
+2018-01-29T21:43:21,000 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T21:45:36,850 [INFO ] (Reader.java:20) - Файл был прочитан.
+2018-01-29T21:45:36,854 [INFO ] (Parser.java:24) - Строка файла №1. Координаты добавлены.
+2018-01-29T21:45:36,855 [WARN ] (Parser.java:27) - Невозможно прочитать координаты. В строке №2 введены символы, которые невозможно перевести в формат Double.
+2018-01-29T21:45:36,857 [INFO ] (Parser.java:24) - Строка файла №3. Координаты добавлены.
+2018-01-29T21:45:36,857 [INFO ] (Parser.java:24) - Строка файла №4. Координаты добавлены.
+2018-01-29T21:45:36,859 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T21:45:36,859 [WARN ] (Creator.java:27) - Невозможно создать треугольник №2, недостаточно данных координат.
+2018-01-29T21:45:36,859 [WARN ] (Creator.java:27) - Невозможно создать треугольник №3, недостаточно данных координат.
+2018-01-29T21:45:36,859 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T21:57:01,893 [INFO ] (Reader.java:20){FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green} - Файл был прочитан.
+2018-01-29T21:57:01,897 [INFO ] (Parser.java:24){FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green} - Строка файла №1. Координаты добавлены.
+2018-01-29T21:57:01,898 [WARN ] (Parser.java:27){FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green} - Невозможно прочитать координаты. В строке №2 введены символы, которые невозможно перевести в формат Double.
+2018-01-29T21:57:01,898 [INFO ] (Parser.java:24){FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green} - Строка файла №3. Координаты добавлены.
+2018-01-29T21:57:01,899 [INFO ] (Parser.java:24){FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green} - Строка файла №4. Координаты добавлены.
+2018-01-29T21:57:01,900 [INFO ] (Creator.java:25){FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green} - Создан треугольник №1
+2018-01-29T21:57:01,900 [WARN ] (Creator.java:27){FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green} - Невозможно создать треугольник №2, недостаточно данных координат.
+2018-01-29T21:57:01,901 [WARN ] (Creator.java:27){FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green} - Невозможно создать треугольник №3, недостаточно данных координат.
+2018-01-29T21:57:01,901 [INFO ] (Creator.java:25){FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green} - Создан треугольник №4
+2018-01-29T18:57:44,935 [INFO ] (Reader.java:20) - Файл был прочитан.
+2018-01-29T18:57:44,951 [INFO ] (Parser.java:24) - Строка файла №1. Координаты добавлены.
+2018-01-29T18:57:44,952 [WARN ] (Parser.java:27) - Невозможно прочитать координаты. В строке №2 введены символы, которые невозможно перевести в формат Double.
+2018-01-29T18:57:44,953 [INFO ] (Parser.java:24) - Строка файла №3. Координаты добавлены.
+2018-01-29T18:57:44,954 [INFO ] (Parser.java:24) - Строка файла №4. Координаты добавлены.
+2018-01-29T18:57:44,956 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T18:57:44,956 [WARN ] (Creator.java:27) - Невозможно создать треугольник №2, недостаточно данных координат.
+2018-01-29T18:57:44,957 [WARN ] (Creator.java:27) - Невозможно создать треугольник №3, недостаточно данных координат.
+2018-01-29T18:57:44,958 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T22:53:49,086 [INFO ] (Reader.java:21) - Файл был прочитан.
+2018-01-29T22:53:49,132 [INFO ] (Parser.java:24) - Строка файла №1. Координаты добавлены.
+2018-01-29T22:53:49,133 [WARN ] (Parser.java:27) - Невозможно прочитать координаты. В строке №2 введены символы, которые невозможно перевести в формат Double.
+2018-01-29T22:53:49,134 [INFO ] (Parser.java:24) - Строка файла №3. Координаты добавлены.
+2018-01-29T22:53:49,135 [INFO ] (Parser.java:24) - Строка файла №4. Координаты добавлены.
+2018-01-29T22:53:49,137 [INFO ] (Creator.java:26) - Создан треугольник №1
+2018-01-29T22:53:49,137 [WARN ] (Creator.java:28) - Невозможно создать треугольник №2, недостаточно данных координат.
+2018-01-29T22:53:49,138 [WARN ] (Creator.java:41) - null
+2018-01-29T22:53:49,139 [WARN ] (Creator.java:28) - Невозможно создать треугольник №3, недостаточно данных координат.
+2018-01-29T22:53:49,139 [WARN ] (Creator.java:41) - null
+2018-01-29T22:53:49,139 [INFO ] (Creator.java:26) - Создан треугольник №4
+2018-01-29T22:54:45,644 [INFO ] (Reader.java:21) - Файл был прочитан.
+2018-01-29T22:54:45,650 [INFO ] (Parser.java:24) - Строка файла №1. Координаты добавлены.
+2018-01-29T22:54:45,651 [WARN ] (Parser.java:27) - Невозможно прочитать координаты. В строке №2 введены символы, которые невозможно перевести в формат Double.
+2018-01-29T22:54:45,651 [INFO ] (Parser.java:24) - Строка файла №3. Координаты добавлены.
+2018-01-29T22:54:45,652 [INFO ] (Parser.java:24) - Строка файла №4. Координаты добавлены.
+2018-01-29T22:54:45,653 [INFO ] (Creator.java:26) - Создан треугольник №1
+2018-01-29T22:54:45,653 [WARN ] (Creator.java:28) - Невозможно создать треугольник №2, недостаточно данных координат.
+2018-01-29T22:54:45,653 [WARN ] (Creator.java:41) - by.rekuts.triangle.exception.CreateTriangleException
+2018-01-29T22:54:45,654 [WARN ] (Creator.java:28) - Невозможно создать треугольник №3, недостаточно данных координат.
+2018-01-29T22:54:45,654 [WARN ] (Creator.java:41) - by.rekuts.triangle.exception.CreateTriangleException
+2018-01-29T22:54:45,654 [INFO ] (Creator.java:26) - Создан треугольник №4
+2018-01-29T23:01:26,276 [INFO ] (Reader.java:21) - Файл был прочитан.
+2018-01-29T23:01:26,280 [INFO ] (Parser.java:24) - Строка файла №1. Координаты добавлены.
+2018-01-29T23:01:26,281 [WARN ] (Parser.java:27) - Невозможно прочитать координаты. В строке №2 введены символы, которые невозможно перевести в формат Double.
+2018-01-29T23:01:26,281 [INFO ] (Parser.java:24) - Строка файла №3. Координаты добавлены.
+2018-01-29T23:01:26,281 [INFO ] (Parser.java:24) - Строка файла №4. Координаты добавлены.
+2018-01-29T23:01:26,282 [INFO ] (Creator.java:26) - Создан треугольник №1
+2018-01-29T23:01:26,283 [WARN ] (Creator.java:39) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:01:26,283 [WARN ] (Creator.java:39) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:01:26,283 [INFO ] (Creator.java:26) - Создан треугольник №4
+2018-01-29T23:11:47,077 [INFO ] (Reader.java:23) - Файл был прочитан.
+2018-01-29T23:11:47,082 [INFO ] (Parser.java:26) - Строка файла №1. Координаты добавлены.
+2018-01-29T23:11:47,083 [WARN ] (Parser.java:40) - by.rekuts.triangle.exception.ParseDataExceptionНевозможно прочитать координаты. В строке введены символы, которые невозможно перевести в формат Double.
+2018-01-29T23:11:47,084 [INFO ] (Parser.java:26) - Строка файла №3. Координаты добавлены.
+2018-01-29T23:11:47,084 [INFO ] (Parser.java:26) - Строка файла №4. Координаты добавлены.
+2018-01-29T23:11:47,085 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T23:11:47,085 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:11:47,086 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:11:47,086 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T23:12:25,229 [INFO ] (Reader.java:23) - Файл был прочитан.
+2018-01-29T23:12:25,232 [INFO ] (Parser.java:26) - Строка файла №1. Координаты добавлены.
+2018-01-29T23:12:25,233 [WARN ] (Parser.java:40) - by.rekuts.triangle.exception.ParseDataException Невозможно прочитать координаты. В строке введены символы, которые нельзя перевести в формат Double.
+2018-01-29T23:12:25,233 [INFO ] (Parser.java:26) - Строка файла №3. Координаты добавлены.
+2018-01-29T23:12:25,233 [INFO ] (Parser.java:26) - Строка файла №4. Координаты добавлены.
+2018-01-29T23:12:25,234 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T23:12:25,234 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:12:25,235 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:12:25,235 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T23:14:30,710 [INFO ] (Reader.java:23) - 
+Файл был прочитан.
+2018-01-29T23:14:30,714 [INFO ] (Parser.java:26) - Строка файла №1. Координаты добавлены.
+2018-01-29T23:14:30,714 [WARN ] (Parser.java:40) - by.rekuts.triangle.exception.ParseDataException Невозможно прочитать координаты. В строке введены символы, которые нельзя перевести в формат Double.
+2018-01-29T23:14:30,715 [INFO ] (Parser.java:26) - Строка файла №3. Координаты добавлены.
+2018-01-29T23:14:30,715 [INFO ] (Parser.java:26) - Строка файла №4. Координаты добавлены.
+2018-01-29T23:14:30,716 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T23:14:30,716 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:14:30,716 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:14:30,717 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T23:15:08,328 [INFO ] (Reader.java:23) - Файл был прочитан.
+
+2018-01-29T23:15:08,332 [INFO ] (Parser.java:26) - Строка файла №1. Координаты добавлены.
+2018-01-29T23:15:08,333 [WARN ] (Parser.java:40) - by.rekuts.triangle.exception.ParseDataException Невозможно прочитать координаты. В строке введены символы, которые нельзя перевести в формат Double.
+2018-01-29T23:15:08,333 [INFO ] (Parser.java:26) - Строка файла №3. Координаты добавлены.
+2018-01-29T23:15:08,334 [INFO ] (Parser.java:26) - Строка файла №4. Координаты добавлены.
+2018-01-29T23:15:08,335 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T23:15:08,335 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:15:08,335 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:15:08,336 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T23:19:49,218 [WARN ] (Reader.java:35) - by.rekuts.triangle.exception.ReadFileExceptionНевозможно прочитать файл. Приложение будет закрыто.
+2018-01-29T23:22:57,278 [WARN ] (Reader.java:35) - by.rekuts.triangle.exception.TriangleException Невозможно прочитать файл. Приложение будет закрыто.
+2018-01-29T23:24:06,245 [INFO ] (Reader.java:23) - Файл был прочитан.
+
+2018-01-29T23:24:06,249 [INFO ] (Parser.java:26) - Строка файла №1. Координаты добавлены.
+2018-01-29T23:24:06,250 [WARN ] (Parser.java:40) - by.rekuts.triangle.exception.ParseDataException Невозможно прочитать координаты. В строке введены символы, которые нельзя перевести в формат Double.
+2018-01-29T23:24:06,250 [INFO ] (Parser.java:26) - Строка файла №3. Координаты добавлены.
+2018-01-29T23:24:06,250 [INFO ] (Parser.java:26) - Строка файла №4. Координаты добавлены.
+2018-01-29T23:24:06,251 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T23:24:06,252 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:24:06,252 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:24:06,252 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T23:24:57,520 [ERROR] (Reader.java:35) - by.rekuts.triangle.exception.TriangleException Невозможно прочитать файл. Приложение будет закрыто.
+2018-01-29T23:26:43,228 [INFO ] (Reader.java:23) - Файл был прочитан.
+
+2018-01-29T23:26:43,239 [INFO ] (Parser.java:26) - Строка файла №1. Координаты добавлены.
+2018-01-29T23:26:43,239 [WARN ] (Parser.java:40) - by.rekuts.triangle.exception.ParseDataException Невозможно прочитать координаты. В строке введены символы, которые нельзя перевести в формат Double.
+2018-01-29T23:26:43,240 [INFO ] (Parser.java:26) - Строка файла №3. Координаты добавлены.
+2018-01-29T23:26:43,240 [INFO ] (Parser.java:26) - Строка файла №4. Координаты добавлены.
+2018-01-29T23:26:43,241 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T23:26:43,241 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:26:43,241 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:26:43,242 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T23:26:53,642 [INFO ] (Reader.java:23) - Файл был прочитан.
+
+2018-01-29T23:26:53,645 [INFO ] (Parser.java:26) - Строка файла №1. Координаты добавлены.
+2018-01-29T23:26:53,648 [WARN ] (Parser.java:40) - by.rekuts.triangle.exception.ParseDataException Невозможно прочитать координаты. В строке введены символы, которые нельзя перевести в формат Double.
+2018-01-29T23:26:53,648 [INFO ] (Parser.java:26) - Строка файла №3. Координаты добавлены.
+2018-01-29T23:26:53,648 [INFO ] (Parser.java:26) - Строка файла №4. Координаты добавлены.
+2018-01-29T23:26:53,649 [INFO ] (Creator.java:25) - Создан треугольник №1
+2018-01-29T23:26:53,649 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:26:53,649 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:26:53,650 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-29T23:46:57,430 [INFO ] (Reader.java:23) - Файл был прочитан.
+
+2018-01-29T23:46:57,434 [WARN ] (Parser.java:40) - by.rekuts.triangle.exception.ParseDataException Невозможно прочитать координаты. В строке введены символы, которые нельзя перевести в формат Double.
+2018-01-29T23:46:57,434 [WARN ] (Parser.java:40) - by.rekuts.triangle.exception.ParseDataException Невозможно прочитать координаты. В строке введены символы, которые нельзя перевести в формат Double.
+2018-01-29T23:46:57,435 [INFO ] (Parser.java:26) - Строка файла №3. Координаты добавлены.
+2018-01-29T23:46:57,435 [INFO ] (Parser.java:26) - Строка файла №4. Координаты добавлены.
+2018-01-29T23:46:57,436 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:46:57,436 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:46:57,437 [WARN ] (Creator.java:38) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-29T23:46:57,437 [INFO ] (Creator.java:25) - Создан треугольник №4
+2018-01-30T16:14:10,308 [INFO ] (Reader.java:23) - Файл был прочитан.
+
+2018-01-30T16:14:10,332 [INFO ] (Parser.java:26) - Строка файла №1. Координаты добавлены.
+2018-01-30T16:14:10,333 [WARN ] (Parser.java:40) - by.rekuts.triangle.exception.ParseDataException Невозможно прочитать координаты. В строке введены символы, которые нельзя перевести в формат Double.
+2018-01-30T16:14:10,333 [INFO ] (Parser.java:26) - Строка файла №3. Координаты добавлены.
+2018-01-30T16:14:10,334 [INFO ] (Parser.java:26) - Строка файла №4. Координаты добавлены.
+2018-01-30T16:14:10,336 [INFO ] (Creator.java:26) - Создан треугольник №1
+2018-01-30T16:14:10,337 [WARN ] (Creator.java:39) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-30T16:14:10,338 [WARN ] (Creator.java:39) - by.rekuts.triangle.exception.CreateTriangleException Невозможно создать треугольник, недостаточно данных координат.
+2018-01-30T16:14:10,338 [INFO ] (Creator.java:26) - Создан треугольник №4
+2018-01-30T16:25:16,481 [INFO ] (Reader.java:24) - File has been read.
+
+2018-01-30T16:25:16,485 [INFO ] (Parser.java:27) - File's string №1. Coordinates have been added.
+2018-01-30T16:25:16,486 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.ParseDataException It is impossible to read coordinates. There are wrong symbols, which can't be parsed to Double format.
+2018-01-30T16:25:16,486 [INFO ] (Parser.java:27) - File's string №3. Coordinates have been added.
+2018-01-30T16:25:16,486 [INFO ] (Parser.java:27) - File's string №4. Coordinates have been added.
+2018-01-30T16:25:16,487 [INFO ] (Creator.java:27) - The triangle №1 is created.
+2018-01-30T16:25:16,488 [WARN ] (Creator.java:40) - by.rekuts.triangle.exception.CreateTriangleException There are not enough coordinates to create triangle.
+2018-01-30T16:25:16,488 [WARN ] (Creator.java:40) - by.rekuts.triangle.exception.CreateTriangleException There are not enough coordinates to create triangle.
+2018-01-30T16:25:16,488 [INFO ] (Creator.java:27) - The triangle №4 is created.
+2018-01-30T16:30:27,225 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.ParseDataException It is impossible to read coordinates. There are wrong symbols, which can't be parsed to Double format.
+2018-01-30T16:30:27,230 [WARN ] (Creator.java:40) - by.rekuts.triangle.exception.CreateTriangleException There are not enough coordinates to create triangle.
+2018-01-30T16:30:27,230 [WARN ] (Creator.java:40) - by.rekuts.triangle.exception.CreateTriangleException There are not enough coordinates to create triangle.
+2018-01-30T16:31:11,723 [INFO ] (Reader.java:24) - File has been read.
+
+2018-01-30T16:31:11,725 [INFO ] (Parser.java:27) - File's string №1. Coordinates have been added.
+2018-01-30T16:31:11,725 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.ParseDataException It is impossible to read coordinates. There are wrong symbols, which can't be parsed to Double format.
+2018-01-30T16:31:11,725 [INFO ] (Parser.java:27) - File's string №3. Coordinates have been added.
+2018-01-30T16:31:11,726 [INFO ] (Parser.java:27) - File's string №4. Coordinates have been added.
+2018-01-30T16:31:11,726 [INFO ] (Creator.java:27) - The triangle №1 is created.
+2018-01-30T16:31:11,726 [WARN ] (Creator.java:40) - by.rekuts.triangle.exception.CreateTriangleException There are not enough coordinates to create triangle.
+2018-01-30T16:31:11,727 [WARN ] (Creator.java:40) - by.rekuts.triangle.exception.CreateTriangleException There are not enough coordinates to create triangle.
+2018-01-30T16:31:11,727 [INFO ] (Creator.java:27) - The triangle №4 is created.
+2018-01-30T16:34:35,656 [ERROR] (Reader.java:36) - by.rekuts.triangle.exception.TriangleException Can't read the file. The application will be closed.
+2018-01-30T16:36:42,740 [ERROR] (Reader.java:36) - by.rekuts.triangle.exception.TriangleException Can't read the file. The application will be closed.
+2018-01-30T16:36:54,033 [ERROR] (Reader.java:36) - by.rekuts.triangle.exception.TriangleException Can't read the file. The application will be closed.
+2018-01-30T16:37:39,714 [ERROR] (Reader.java:26) - java.nio.file.NoSuchFileException Can't read the file. The application will be closed.
+2018-01-30T16:52:35,310 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.ParseDataException It is impossible to read coordinates. There are wrong symbols, which can't be parsed to Double format.
+2018-01-30T16:52:35,341 [WARN ] (Creator.java:40) - by.rekuts.triangle.exception.CreateTriangleException There are not enough coordinates to create triangle.
+2018-01-30T16:52:35,341 [WARN ] (Creator.java:40) - by.rekuts.triangle.exception.CreateTriangleException There are not enough coordinates to create triangle.
+2018-02-01T23:01:53,338 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-01T23:01:53,353 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-01T23:04:47,708 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-01T23:04:47,711 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-01T23:04:59,177 [INFO ] (Reader.java:23) - File has been read.
+
+2018-02-01T23:04:59,181 [INFO ] (Parser.java:35) - File's string №1. Coordinates have been added.
+2018-02-01T23:04:59,182 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-01T23:04:59,182 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-01T23:04:59,182 [INFO ] (Parser.java:35) - File's string №4. Coordinates have been added.
+2018-02-01T23:04:59,183 [INFO ] (Creator.java:26) - The triangle №1 is created.
+2018-02-01T23:04:59,184 [INFO ] (Creator.java:26) - The triangle №2 is created.
+2018-02-01T23:05:10,996 [INFO ] (Reader.java:23) - File has been read.
+
+2018-02-01T23:05:11,000 [INFO ] (Parser.java:35) - File's string №1. Coordinates have been added.
+2018-02-01T23:05:11,000 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-01T23:05:11,000 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-01T23:05:11,001 [INFO ] (Parser.java:35) - File's string №4. Coordinates have been added.
+2018-02-01T23:05:11,003 [INFO ] (Creator.java:26) - The triangle №1 is created.
+2018-02-01T23:05:11,003 [INFO ] (Creator.java:26) - The triangle №2 is created.
+2018-02-01T23:36:54,159 [INFO ] (Reader.java:23) - File has been read.
+
+2018-02-01T23:36:54,162 [INFO ] (Parser.java:35) - File's string №1. Coordinates have been added.
+2018-02-01T23:36:54,162 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-01T23:36:54,163 [WARN ] (Parser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-01T23:36:54,163 [INFO ] (Parser.java:35) - File's string №4. Coordinates have been added.
+2018-02-01T23:36:54,164 [INFO ] (Creator.java:27) - The triangle №1 is created.
+2018-02-01T23:36:54,164 [INFO ] (Creator.java:27) - The triangle №2 is created.
+2018-02-01T23:44:34,419 [INFO ] (Reader.java:23) - File has been read.
+
+2018-02-01T23:47:51,971 [ERROR] (Reader.java:25) - java.nio.file.NoSuchFileException Can't read the file. The application will be closed.
+2018-02-01T23:53:48,621 [ERROR] (Reader.java:25) - java.nio.file.NoSuchFileException Can't read the file. The application will be closed.
+2018-02-01T23:53:57,237 [ERROR] (Reader.java:25) - java.nio.file.NoSuchFileException Can't read the file. The application will be closed.
+2018-02-01T23:53:57,482 [INFO ] (Reader.java:23) - File has been read.
+
+2018-02-02T15:36:08,995 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-02T15:36:09,000 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T15:36:09,000 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T15:36:09,000 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T15:36:09,001 [INFO ] (TriangleParser.java:35) - File's string №4. Coordinates have been added.
+2018-02-02T15:36:09,003 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-02T15:36:09,003 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-02T15:36:23,753 [ERROR] (TriangleReader.java:25) - java.nio.file.NoSuchFileException Can't read the file. The application will be closed.
+2018-02-02T15:36:23,846 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-02T15:52:06,756 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T15:52:06,791 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T17:28:08,433 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T17:28:08,438 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T17:28:53,683 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T17:28:53,690 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T17:29:42,788 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T17:29:42,797 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T17:30:02,869 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T17:30:02,873 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T17:31:23,222 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T17:31:23,243 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T17:32:37,520 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T17:32:37,525 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T17:32:37,525 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T17:41:08,504 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T17:41:08,511 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T17:41:08,511 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T17:41:08,519 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T17:41:08,521 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T17:41:48,387 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T17:41:48,392 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T17:41:48,392 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T17:41:48,404 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T17:41:48,404 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T18:07:13,266 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:07:13,269 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T18:07:13,270 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:07:13,270 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:09:10,420 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:09:10,426 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:09:10,426 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:09:21,502 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:09:21,506 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:09:21,506 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:12:16,337 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:12:16,372 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T18:12:16,373 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:12:16,374 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:12:16,374 [INFO ] (TriangleParser.java:35) - File's string №5. Coordinates have been added.
+2018-02-02T18:13:09,724 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:13:09,728 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:13:09,734 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:13:09,737 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:13:09,745 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:13:09,751 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T18:13:09,755 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:13:09,758 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T18:13:09,759 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:13:09,760 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:14:35,715 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-02T18:14:35,726 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:14:35,726 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:14:35,726 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:14:35,727 [INFO ] (TriangleParser.java:35) - File's string №4. Coordinates have been added.
+2018-02-02T18:14:35,751 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-02T18:14:35,751 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-02T18:15:45,813 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-02T18:15:45,818 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:15:45,818 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:15:45,819 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:15:45,820 [INFO ] (TriangleParser.java:35) - File's string №4. Coordinates have been added.
+2018-02-02T18:15:45,821 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-02T18:15:45,821 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-02T18:16:00,851 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-02T18:16:00,855 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:16:00,855 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:16:00,856 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:16:00,856 [INFO ] (TriangleParser.java:35) - File's string №4. Coordinates have been added.
+2018-02-02T18:16:00,858 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-02T18:16:00,858 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-02T18:20:50,701 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:20:50,708 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:20:50,709 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:20:50,709 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:21:23,731 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:21:23,740 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T18:21:23,741 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:21:23,742 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:22:41,184 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-02T18:22:41,189 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:22:41,189 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:22:41,190 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:22:41,191 [INFO ] (TriangleParser.java:35) - File's string №4. Coordinates have been added.
+2018-02-02T18:22:41,192 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-02T18:22:41,192 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-02T18:58:03,457 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:58:03,461 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:58:03,468 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:58:03,468 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:58:03,475 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:58:03,482 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T18:58:03,484 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T18:58:03,485 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T18:58:03,486 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T18:58:03,486 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T19:05:19,033 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T19:05:19,036 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T19:05:19,040 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T19:05:19,040 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T19:05:19,041 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T19:05:19,043 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T19:05:19,044 [INFO ] (TriangleParser.java:35) - File's string №1. Coordinates have been added.
+2018-02-02T19:05:19,045 [INFO ] (TriangleParser.java:35) - File's string №2. Coordinates have been added.
+2018-02-02T19:05:19,045 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T19:05:19,050 [WARN ] (TriangleParser.java:41) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-02T19:19:22,117 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-02T19:19:22,128 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-02T19:20:55,358 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-02T19:20:55,361 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-02T19:30:38,631 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-02T19:30:38,640 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-02T19:32:16,656 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-02T19:32:16,659 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-02T19:41:00,302 [WARN ] (TriangleCreator.java:32) - All points lay on one line.
+2018-02-02T19:42:45,821 [WARN ] (TriangleCreator.java:32) - All points lay on one line.
+2018-02-02T19:46:21,392 [WARN ] (TriangleCreator.java:32) - All points lay on one line.
+2018-02-02T19:46:34,852 [WARN ] (TriangleCreator.java:32) - All points lay on one line.
+2018-02-02T19:47:50,990 [WARN ] (TriangleCreator.java:32) - All points lay on one line.
+2018-02-02T19:52:31,404 [WARN ] (TriangleCreator.java:32) - All points lay on one line.
+2018-02-02T19:53:40,787 [WARN ] (TriangleCreator.java:32) - All points lay on one line.
+2018-02-02T19:55:12,616 [WARN ] (TriangleCreator.java:32) - All points lay on one line.
+2018-02-02T19:56:36,929 [WARN ] (TriangleCreator.java:32) - All points lay on one line.
+2018-02-02T19:56:36,942 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-02T19:56:36,943 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-04T14:11:37,932 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:11:59,736 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:12:35,454 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:13:13,231 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:14:18,357 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:14:18,361 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:14:25,284 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:14:25,287 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:14:31,498 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:14:31,502 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:14:31,503 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:14:31,504 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:14:39,295 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:14:39,300 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:14:39,301 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:14:39,303 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:14:48,201 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:14:48,203 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:14:55,551 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:14:55,555 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:15:26,169 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:15:26,179 [INFO ] (TriangleParser.java:42) - Coordinates have been added.
+2018-02-04T14:15:26,180 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:15:26,184 [WARN ] (TriangleParser.java:48) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:19:00,299 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:19:00,303 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:19:00,304 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:19:00,304 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:19:08,691 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:21:41,561 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:21:41,572 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:21:41,580 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:21:41,589 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:21:41,594 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:21:41,597 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:21:41,598 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:22:09,216 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:22:09,225 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:22:09,228 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:22:09,229 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:22:09,230 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:22:09,231 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:22:09,232 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:11,814 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:11,839 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:11,842 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:11,852 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:11,854 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:11,866 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:11,867 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:16,510 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:16,518 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:16,522 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:16,525 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:16,528 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:16,533 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:16,535 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:16,554 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:16,555 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:16,559 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:16,559 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:16,567 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:16,568 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:16,569 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:16,569 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-04T14:24:16,569 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-04T14:24:16,570 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:43:57,077 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-08T20:43:57,211 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-08T20:43:57,212 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:43:57,213 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:43:57,214 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-08T20:43:57,219 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-08T20:43:57,219 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-08T20:44:44,574 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-08T20:44:44,578 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-08T20:44:44,579 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:44:44,579 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:44:44,580 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-08T20:44:44,584 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-08T20:44:44,585 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-08T20:47:55,774 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-08T20:47:55,777 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-08T20:47:55,777 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:47:55,778 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:47:55,778 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-08T20:47:55,780 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-08T20:47:55,780 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-08T20:48:29,041 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-08T20:48:29,045 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-08T20:48:29,045 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:48:29,045 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:48:29,046 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-08T20:48:29,047 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-08T20:48:29,047 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-08T20:50:23,385 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-08T20:50:23,390 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-08T20:50:23,390 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:50:23,391 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-08T20:50:23,391 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-08T20:50:23,393 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-08T20:50:23,393 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T09:58:30,011 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T09:58:30,128 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T09:58:30,129 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T09:58:30,131 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T09:58:30,132 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T09:58:30,427 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T09:58:30,427 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T10:40:52,934 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T10:40:52,971 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:40:52,971 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:40:52,971 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:40:52,972 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:40:52,974 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T10:40:52,974 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T10:42:22,386 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T10:42:22,395 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:42:22,395 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:42:22,396 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:42:22,396 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:42:22,398 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T10:42:22,398 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T10:42:47,402 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T10:42:47,407 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:42:47,407 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:42:47,408 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:42:47,408 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:42:47,411 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T10:42:47,411 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T10:43:28,043 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T10:43:28,047 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:43:28,048 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:43:28,048 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:43:28,049 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:43:28,051 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T10:43:28,051 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T10:47:31,257 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T10:47:31,266 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:47:31,266 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:47:31,267 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:47:31,268 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:47:31,270 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T10:47:31,270 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T10:50:29,921 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T10:50:29,925 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:50:29,926 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:50:29,926 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:50:29,927 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:50:29,929 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T10:50:29,929 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T10:55:48,280 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T10:55:48,284 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:55:48,284 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:55:48,285 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:55:48,285 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:55:48,287 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T10:55:48,287 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T10:56:05,111 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T10:56:05,116 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:56:05,116 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:56:05,117 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T10:56:05,118 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T10:56:05,119 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T10:56:05,120 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T11:15:53,748 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T11:15:53,752 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T11:15:53,752 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T11:15:53,753 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T11:15:53,754 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T11:15:53,755 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T11:15:53,755 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T11:25:28,778 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T11:25:28,784 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T11:25:28,784 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T11:25:28,785 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T11:25:28,785 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T11:25:28,795 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T11:25:28,795 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T11:34:05,345 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T11:34:05,350 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T11:34:05,350 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T11:34:05,351 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T11:34:05,351 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T11:36:30,733 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T11:36:57,712 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T12:50:31,836 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T12:50:31,969 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T12:50:31,970 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T12:50:31,971 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T12:50:31,972 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T12:50:32,120 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T12:50:32,120 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T12:52:14,595 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T12:52:14,600 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T12:52:14,600 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T12:52:14,601 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T12:52:14,601 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T12:52:14,604 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T12:52:14,604 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T12:52:23,952 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T12:52:23,956 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T12:52:23,956 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T12:52:23,957 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T12:52:23,957 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T12:52:46,768 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T12:53:18,313 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T12:57:14,646 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T12:57:14,654 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T12:57:14,655 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T12:57:14,655 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T12:57:14,657 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T12:57:14,659 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T12:57:14,659 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
+2018-02-25T13:01:00,332 [INFO ] (TriangleReader.java:23) - File has been read.
+
+2018-02-25T13:01:00,336 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T13:01:00,336 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T13:01:00,337 [WARN ] (TriangleParser.java:50) - by.rekuts.triangle.exception.TriangleException It is impossible to read coordinates.
+2018-02-25T13:01:00,338 [INFO ] (TriangleParser.java:44) - Coordinates have been added.
+2018-02-25T13:01:00,341 [INFO ] (TriangleCreator.java:27) - The triangle №1 is created.
+2018-02-25T13:01:00,341 [INFO ] (TriangleCreator.java:27) - The triangle №2 is created.
